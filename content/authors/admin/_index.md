@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Richard Bergna is a first-year PhD student at the Cambridge Machine Learning Group (CBL) under the supervision of Professor José Miguel Hernández-Lobato. His interests liea in uncertainty quantification in machine learning, particularly in deep learning, and in decision-making under uncertainty, graph neural networks. Previously, he completed his MPhil in Machine Learning and Machine Intelligence (MLMI) at the University of Cambridge https://www.mlmi.eng.cam.ac.uk/. 
