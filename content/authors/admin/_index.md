@@ -2,9 +2,6 @@
 # Display name
 title: Richard Bergna
 
-# Name pronunciation (optional)
-name_pronunciation: Rich-ard Berg-na
-
 # Full name (for SEO)
 first_name: Richard
 last_name: Bergna
