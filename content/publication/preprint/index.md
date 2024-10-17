@@ -33,9 +33,8 @@ featured: true
 
 links:
   - name: Preprint Link
-    url: 'https://arxiv.org/abs/XXXX.XXXXX' # Replace with the actual preprint link
+    url: 'https://arxiv.org/abs/2408.16115' # Replace with the actual preprint link
 
-url_pdf: 'https://arxiv.org/pdf/XXXX.XXXXX.pdf' # Replace with the actual PDF link
 url_code: 'https://github.com/RichardBergna/Graph-Neural-SDEs'
 url_project: ''
 url_slides: ''
