@@ -38,8 +38,9 @@ profiles:
 
 # Research Interests
 interests:
-  - Uncertainty Quantification in Machine Learning
-  - Deep Learning and Bayesian Methods
+  - Uncertainty Quantification in ML
+  - Probabilistic Deep Learning
+  - Bayesian Methods
   - Gaussian Processes
   - Reinforcement Learning
   - Graph Neural Networks
