@@ -3,7 +3,6 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Parameters for Media Prioritization
 params:
   featured_pdf: "featured.pdf"    # Specify the default PDF name
   prioritize_pdf: true            # Enable PDF priority globally
@@ -17,15 +16,15 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: 'Educational Institution'
-    org_name: 'University of Cambridge'
-    description: 'Richard Bergna\'s academic website showcasing research in uncertainty quantification, deep learning, and probabilistic machine learning.'
-    twitter: 'RichardBergna'
+    local_business_type: "Educational Institution"
+    org_name: "University of Cambridge"
+    description: "Richard Bergna's academic website showcasing research in uncertainty quantification, deep learning, and probabilistic machine learning."
+    twitter: "RichardBergna"
   analytics:
-    google_analytics: 'UA-XXXXX-Y'  # Replace with your Google Analytics ID if applicable
+    google_analytics: "UA-XXXXX-Y"  # Replace with your Google Analytics ID if applicable
   verification:
-    google: ''
-    baidu: ''
+    google: ""
+    baidu: ""
 
 # Site header
 header:
@@ -41,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Richard Bergna. This work is licensed under {license}'
+    notice: "© {year} Richard Bergna. This work is licensed under {license}"
     license:
       enable: true
       allow_derivatives: false
@@ -50,8 +49,8 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: "Jan 2, 2006"
+  time_format: "3:04 PM"
 
 # Site features
 features:
