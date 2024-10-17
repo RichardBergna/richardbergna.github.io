@@ -21,8 +21,8 @@ role: PhD Candidate in Probabilistic Machine Learning
 
 # Organizations/Affiliations to display in Biography block
 organizations:
-  - name: Cambridge Machine Learning Group (CBL)
-    url: https://mlg.eng.cam.ac.uk/
+  - name: Computational and Biological Learning Lab (CBL)
+    url: https://cbl.eng.cam.ac.uk/
 
 # Social network links
 profiles:
