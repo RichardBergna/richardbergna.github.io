@@ -62,21 +62,19 @@ education:
     date_end: 2023-09-01
     summary: |
       Grade: 74
+      Dissertation Grade: 84 - second-highest grade of the cohort
       Desertation on [Uncertainty Modeling in Graph Neural Networks via Stochastic Differential Equations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JRQm3CMAAAAJ&citation_for_view=JRQm3CMAAAAJ:u-x6o8ySG0sC). Supervised by [Professor José Miguel Hernández-Lobato](https://jmhl.org/) and [Professor Pietro Liò](https://caraml-group.github.io/author/pietro-lio/). Currently under review for ICLR conference.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://example.com](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JRQm3CMAAAAJ&citation_for_view=JRQm3CMAAAAJ:u-x6o8ySG0sC)'
+  - area: BEng Engineering Mathematics
+    institution: Bristol University
+    date_start: 2018-10-01
+    date_end: 2021-08-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Grade: First-class honors
+      Dissertation Grade: 81\% - highest grade of the cohort
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
