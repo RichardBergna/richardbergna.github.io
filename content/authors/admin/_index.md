@@ -54,8 +54,8 @@ interests:
 education:
   - area: PhD Probabilistic Machine Learning
     institution: Cambridge University
-    date_start: 2024-10-01
-    date_end: 2027-12-31 (expected)
+    date_start: "2024-10-01"
+    date_end: "2027-12-31"
   - area: MPhil in Machine Learning and Machine Inteligence
     institution: Cambridge University
     date_start: 2022-10-01
@@ -69,8 +69,8 @@ education:
       url: 'https://example.com](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JRQm3CMAAAAJ&citation_for_view=JRQm3CMAAAAJ:u-x6o8ySG0sC)'
   - area: BEng Engineering Mathematics
     institution: Bristol University
-    date_start: 2018-10-01
-    date_end: 2021-08-01
+    date_start: "2018-10-01"
+    date_end: "2021-08-01"
     summary: |
       Grade: First-class honors
       Dissertation Grade: 81\% - highest grade of the cohort
