@@ -52,26 +52,20 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Probabilistic Machine Learning
+    institution: Cambridge University
+    date_start: 2024-10-01
+    date_end: 2027-12-31 (expected)
+  - area: MPhil in Machine Learning and Machine Inteligence
+    institution: Cambridge University
+    date_start: 2022-10-01
+    date_end: 2023-09-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Grade: 74
+      Desertation on [Uncertainty Modeling in Graph Neural Networks via Stochastic Differential Equations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JRQm3CMAAAAJ&citation_for_view=JRQm3CMAAAAJ:u-x6o8ySG0sC). Supervised by [Professor José Miguel Hernández-Lobato](https://jmhl.org/) and [Professor Pietro Liò](https://caraml-group.github.io/author/pietro-lio/). Currently under review for ICLR conference.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -183,4 +177,4 @@ awards:
 
 ## About Me
 
-Richard Bergna is a first-year PhD student at the Cambridge Machine Learning Group (CBL) under the supervision of Professor José Miguel Hernández-Lobato. His interests liea in uncertainty quantification in machine learning, particularly in deep learning, and in decision-making under uncertainty, graph neural networks. Previously, he completed his MPhil in Machine Learning and Machine Intelligence (MLMI) at the University of Cambridge https://www.mlmi.eng.cam.ac.uk/. 
+Richard Bergna is a first-year PhD student at the Cambridge Machine Learning Group (CBL) under the supervision of Professor José Miguel Hernández-Lobato. His interests lies in uncertainty quantification in machine learning, particularly in deep learning, and in decision-making under uncertainty, gaussian process, graph neural networks, and reinforcement learning.
