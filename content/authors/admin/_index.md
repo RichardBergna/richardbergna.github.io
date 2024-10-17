@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Richard Bergna
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Rich-ard Berg-na
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Richard
+last_name: Bergna
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,131 +20,126 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate in Probabilistic Machine Learning
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Cambridge Machine Learning Group (CBL)
+    url: https://mlg.eng.cam.ac.uk/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: 'mailto:bergna.richard@gmail.com'
+    label: Email Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/RichardBergna
+    label: GitHub
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/richard-bergna
+    label: LinkedIn
 
+# Research Interests
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Uncertainty Quantification in Machine Learning
+  - Deep Learning and Bayesian Methods
+  - Gaussian Processes
+  - Reinforcement Learning
+  - Graph Neural Networks
 
+# Education
 education:
-  - area: PhD Probabilistic Machine Learning
-    institution: Cambridge University
+  - area: PhD in Probabilistic Machine Learning
+    institution: University of Cambridge
     date_start: "2024-10-01"
     date_end: "2027-12-31"
-  - area: MPhil in Machine Learning and Machine Inteligence
-    institution: Cambridge University
-    date_start: 2022-10-01
-    date_end: 2023-09-01
     summary: |
-      Grade: 74
-      Dissertation Grade: 84 - second-highest grade of the cohort
-      Desertation on [Uncertainty Modeling in Graph Neural Networks via Stochastic Differential Equations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JRQm3CMAAAAJ&citation_for_view=JRQm3CMAAAAJ:u-x6o8ySG0sC). Supervised by [Professor José Miguel Hernández-Lobato](https://jmhl.org/) and [Professor Pietro Liò](https://caraml-group.github.io/author/pietro-lio/). Currently under review for ICLR conference.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JRQm3CMAAAAJ&citation_for_view=JRQm3CMAAAAJ:u-x6o8ySG0sC)'
-  - area: BEng Engineering Mathematics
-    institution: Bristol University
+      Researching scalable probabilistic deep learning models to quantify uncertainty under the supervision of Prof. Jose Miguel Hernandez-Lobato and Prof. Pietro Liò.
+  - area: MPhil in Machine Learning and Machine Intelligence
+    institution: University of Cambridge
+    date_start: "2022-10-01"
+    date_end: "2023-09-01"
+    summary: |
+      Achieved a 74% overall grade with an 84% in dissertation on Uncertainty Modeling in Graph Neural Networks via Stochastic Differential Equations. Supervised by Prof. Jose Miguel Hernandez-Lobato and Prof. Pietro Liò.
+  - area: BEng in Engineering Mathematics
+    institution: University of Bristol
     date_start: "2018-10-01"
     date_end: "2021-08-01"
     summary: |
-      Grade: First-class honors
-      Dissertation Grade: 81\% - highest grade of the cohort
+      First-class honours with a dissertation grade of 81%, the highest in the cohort, focused on using machine learning to predict movement patterns.
 
+# Work Experience
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: Quantitative Researcher
+    company_name: Qube Research & Technologies
+    date_start: "2024-04-01"
+    date_end: ""
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Applying machine learning and mathematical models to predict future financial returns.
+  - position: Machine Learning Research Assistant
+    company_name: University of Cambridge
+    date_start: "2023-11-01"
+    date_end: "2024-04-01"
+    summary: |
+      Investigated uncertainty quantification methods in graph neural networks in the CBL lab, under the supervision of Prof. Jose Miguel Hernandez-Lobato and Prof. Pietro Liò.
+  - position: Data Scientist
+    company_name: Sopra Steria
+    date_start: "2021-09-01"
+    date_end: "2022-10-01"
+    summary: |
+      Led ETL transformations in Python, implemented machine learning algorithms, and deployed deep learning architectures for production systems.
+  - position: Research Intern
+    company_name: University of Bristol
+    date_start: "2021-06-01"
+    date_end: "2021-08-01"
+    summary: |
+      Collaborated with Dr. Kacper Sokol on explainability in machine learning algorithms, including LIME and ANCHORS.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
+        description: Advanced
+        percent: 90
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Probabilistic Modeling
+        description: Strong foundation
+        percent: 85
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: Bayesian Inference
+        description: Proficient
+        percent: 80
+        icon: code
+      - name: Deep Learning
+        description: Expertise in CNNs, RNNs, Transformers
+        percent: 90
+        icon: neural-network
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+      - name: Judo
+        description: Competitive training
         percent: 80
+        icon: person-fighting
+      - name: Salsa and Bachata Dancing
+        percent: 75
+        icon: dance
+      - name: Photography
+        percent: 70
         icon: camera
 
+# Languages
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Spanish
+    percent: 90
+  - name: Italian
+    percent: 50
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards and Certifications
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -152,27 +147,23 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+      Completed coursework in neural networks, covering architecture, implementation, and application development.
+  - title: Object-Oriented Programming in R
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
     date: '2023-01-21'
-    awarder: datacamp
+    awarder: DataCamp
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Intermediate course covering OOP with S3 and R6 in R, focusing on GUI development and industry-specific analyses.
+
+# Publications
+publications:
+  - title: Graph Neural Stochastic Differential Equations
+    authors: "Richard Bergna, Felix Opolka, Pietro Liò, Jose Miguel Hernandez-Lobato"
+    conference: ICML (In Preparation)
+    year: 2024
 ---
 
 ## About Me
 
-Richard Bergna is a first-year PhD student at the Cambridge Machine Learning Group (CBL) under the supervision of Professor José Miguel Hernández-Lobato. His interests lies in uncertainty quantification in machine learning, particularly in deep learning, and in decision-making under uncertainty, gaussian process, graph neural networks, and reinforcement learning.
+Richard Bergna is a first-year PhD student at the Cambridge Machine Learning Group (CBL), under the supervision of Prof. Jose Miguel Hernandez-Lobato and Prof. Pietro Liò. His research focuses on uncertainty quantification in machine learning, with applications in decision-making under uncertainty, Gaussian processes, graph neural networks, and reinforcement learning.
