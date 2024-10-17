@@ -12,16 +12,12 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    local_business_type: 'Educational Institution'
+    org_name: 'University of Cambridge'
+    description: 'Richard Bergna\'s academic website showcasing research in uncertainty quantification, deep learning, and probabilistic machine learning.'
+    twitter: 'RichardBergna'
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+    google_analytics: 'UA-XXXXX-Y'  # Replace with your Google Analytics ID if applicable
   verification:
     google: ''
     baidu: ''
@@ -35,12 +31,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Richard Bergna"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Richard Bergna. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -55,6 +51,11 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
+
+# Parameters for Media Prioritization
+params:
+  featured_pdf: "featured.pdf"    # Specify the default PDF name
+  prioritize_pdf: true            # Enable PDF priority globally
