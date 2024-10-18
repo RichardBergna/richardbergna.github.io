@@ -6,6 +6,24 @@ type: landing
 design:
   spacing: '5rem'
 
+
+# Show a call-to-action button under your biography? (optional)
+button:
+    text: Download CV
+    url: uploads/resume.pdf
+design:
+  css_class: dark
+  background:
+    color: black
+    image:
+      # Add your image background to `assets/media/`.
+      filename: stacked-peaks.svg
+      filters:
+        brightness: 1.0
+      size: cover
+      position: center
+      parallax: false
+      
 sections:
   - block: resume-experience
     content:
@@ -96,7 +114,7 @@ sections:
           date: "2018-2021"
           description: Awarded for academic excellence during undergraduate studies.
 
-  - block: resume-languages
+    - block: resume-languages
     content:
       title: Languages
       username: admin
@@ -107,4 +125,22 @@ sections:
           proficiency: 100%
         - name: Italian
           proficiency: 40%
+
+    
+    # Show a call-to-action button under your biography? (optional)
+    button:
+        text: Download CV
+        url: uploads/resume.pdf
+    design:
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
 ---
