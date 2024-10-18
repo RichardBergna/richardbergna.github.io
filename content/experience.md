@@ -95,7 +95,6 @@ sections:
               description: Active member and treasurer at Darwin College Salsa Society
             - name: Judo
               description: Enthusiastic practitioner, recently began competing
-
   - block: resume-awards
     content: 
       title: Awards
