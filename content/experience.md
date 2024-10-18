@@ -95,7 +95,7 @@ sections:
             - name: Judo
               description: Enthusiastic practitioner, recently began competing
   
-  - block: resume-awards
+ - block: resume-awards
     content: 
       title: Awards
       username: admin
