@@ -5,9 +5,10 @@ type: landing
 
 design:
   spacing: '5rem'
-      
+
 sections:
   - block: resume-experience
+    # Show a call-to-action button under your biography? (optional)    
     content:
       username: admin
       # Adding specific experiences
@@ -65,7 +66,7 @@ sections:
       skills:
         - name: Technical Skills
           items:
-            - name: Python, TensorFlow, PyTorch
+            - name: Python, PyTorch, Jax, TensorFlow, 
               description: Extensive experience in deep learning frameworks
             - name: Bayesian Modeling, Gaussian Processes
               description: Focus on uncertainty quantification techniques
