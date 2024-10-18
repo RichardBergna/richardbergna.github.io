@@ -34,16 +34,16 @@ sections:
           position: center
           parallax: false
 
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        My research explores uncertainty quantification, graph neural networks, and probabilistic methods, with applications in decision-making systems and robust machine learning models. I aim to develop tools that enable more interpretable and trustworthy AI, especially in high-stakes areas like healthcare, finance, and autonomous systems.
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       My research explores uncertainty quantification, graph neural networks, and probabilistic methods, with applications in decision-making systems and robust machine learning models. I aim to develop tools that enable more interpretable and trustworthy AI, especially in high-stakes areas like healthcare, finance, and autonomous systems.
 
-        I am always interested in collaborating with those working on innovative approaches to machine learning and AI. Feel free to reach out if you share similar interests or have a project in mind!
-    design:
-      columns: '1'
+  #      I am always interested in collaborating with those working on innovative approaches to machine learning and AI. Feel free to reach out if you share similar interests or have a project in mind!
+  #   design:
+  #     columns: '1'
 
   - block: collection
     id: papers
