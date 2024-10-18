@@ -106,5 +106,5 @@ sections:
         - name: Spanish
           proficiency: 100%
         - name: Italian
-          proficiency: 85%
+          proficiency: 40%
 ---
