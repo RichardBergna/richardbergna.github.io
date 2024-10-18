@@ -126,9 +126,4 @@ sections:
         - name: Italian
           proficiency: 40%
 
-# Show a call-to-action button under your biography? (optional)
-button:
-  text: Download CV
-  url: uploads/resume.pdf
-
 ---
