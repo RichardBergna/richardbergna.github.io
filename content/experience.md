@@ -8,8 +8,9 @@ design:
 
 # Show a call-to-action button under your biography? (optional)
 button:
-    text: Download CV
-    url: uploads/resume.pdf
+  text: Download CV
+  url: uploads/resume.pdf
+
 design:
   css_class: dark
   background:
@@ -94,8 +95,8 @@ sections:
               description: Active member and treasurer at Darwin College Salsa Society
             - name: Judo
               description: Enthusiastic practitioner, recently began competing
-  
- - block: resume-awards
+
+  - block: resume-awards
     content: 
       title: Awards
       username: admin
@@ -113,7 +114,7 @@ sections:
           date: "2018-2021"
           description: Awarded for academic excellence during undergraduate studies.
 
-    - block: resume-languages
+  - block: resume-languages
     content:
       title: Languages
       username: admin
@@ -125,21 +126,21 @@ sections:
         - name: Italian
           proficiency: 40%
 
-    
-    # Show a call-to-action button under your biography? (optional)
-    button:
-        text: Download CV
-        url: uploads/resume.pdf
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+# Show a call-to-action button under your biography? (optional)
+button:
+  text: Download CV
+  url: uploads/resume.pdf
+
+design:
+  css_class: dark
+  background:
+    color: black
+    image:
+      # Add your image background to `assets/media/`.
+      filename: stacked-peaks.svg
+      filters:
+        brightness: 1.0
+      size: cover
+      position: center
+      parallax: false
 ---
