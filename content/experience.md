@@ -97,7 +97,7 @@ sections:
               description: Enthusiastic practitioner, recently began competing
 
   - block: resume-awards
-    content:
+    content: 
       title: Awards
       username: admin
       awards:
