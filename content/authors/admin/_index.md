@@ -48,7 +48,7 @@ interests:
 # Education
 education:
   - area: "PhD in Probabilistic Machine Learning"
-    institution: "University of Cambridge"
+    institution: "University of Cambridge" 
     date_start: "2024-10-01"
     date_end: "2027-12-31"
     summary: |
