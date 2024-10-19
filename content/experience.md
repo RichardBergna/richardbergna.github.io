@@ -32,6 +32,7 @@ sections:
         - position: Quantitative Researcher
           company_name: Qube Research & Technologies
           date_start: "April 2024"
+          date_end: "October 2024"
           location: London, UK
           summary: |
             Applied machine learning and statistical models to predict market returns, supporting data-driven decision-making in quantitative finance.
