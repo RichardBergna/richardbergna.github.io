@@ -148,35 +148,35 @@ awards:
       Completed a comprehensive course covering neural networks, vector space models, and their applications in natural language processing tasks.
   - title: "Probabilistic Deep Learning with TensorFlow 2"
     url: "https://www.coursera.org/account/accomplishments/certificate/35AV6PTQH2HM"
-    date: '2023-01-21'
+    date: '2023-08-21'
     awarder: "Coursera"
     icon: coursera
     summary: |
       Completed an intermediate course focusing on probabilistic models, TensorFlow 2, and the application of deep learning techniques in uncertainty quantification.
   - title: "Supervised Machine Learning: Regression and Classification"
     url: "https://www.coursera.org/account/accomplishments/certificate/4ZT9YYBMMYSH"
-    date: '2023'
+    date: '2023-06-01'
     awarder: "Coursera"
     icon: coursera
     summary: |
       Gained skills in building and applying machine learning models for regression and classification, with a focus on practical implementation and evaluation.
   - title: "Getting Started with TensorFlow 2"
     url: "https://www.coursera.org/account/accomplishments/certificate/C6QU5WJZKKJ5"
-    date: '2023'
+    date: '2023-04-01'
     awarder: "Coursera"
     icon: coursera
     summary: |
       Completed an introductory course on using TensorFlow 2 for machine learning and neural networks, focusing on hands-on model development.
   - title: "Theory of Gaussian Process Regression for Machine Learning"
     url: "https://ude.my/UC-23e80233-ca21-422f-8053-c88de212c1cd"
-    date: '2023'
+    date: '2023-02-01'
     awarder: "Unknown"
     icon: generic
     summary: |
       Studied Gaussian Process regression theory, with a focus on probabilistic modeling and applications in machine learning.
   - title: "Hands-On Essentials - Data Warehouse"
     url: "https://www.credly.com/badges/426ef272-5a0f-4ff8-8634-fe01cd78aeab?source=linked_in_profile"
-    date: '2023'
+    date: '2021-01-01'
     awarder: "Credly"
     icon: credly
     summary: |
