@@ -133,9 +133,9 @@ languages:
   - name: English
     percent: 100
   - name: Spanish
-    percent: 90
+    percent: 100
   - name: Italian
-    percent: 50
+    percent: 40
 
 # Awards and Certifications
 awards:
