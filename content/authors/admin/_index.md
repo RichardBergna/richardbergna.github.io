@@ -99,15 +99,15 @@ skills:
     items:
       - name: Python
         description: Advanced
-        percent: 90
+        percent: 98
         icon: code-bracket
       - name: Probabilistic Modeling
         description: Strong foundation
-        percent: 85
+        percent: 95
         icon: chart-bar
       - name: Bayesian Inference
         description: Proficient
-        percent: 80
+        percent: 90
         icon: code
       - name: Deep Learning
         description: Expertise in CNNs, RNNs, Transformers
@@ -119,13 +119,13 @@ skills:
     items:
       - name: Judo
         description: Competitive training
-        percent: 80
+        percent: 20
         icon: person-fighting
       - name: Salsa and Bachata Dancing
-        percent: 75
+        percent: 90
         icon: dance
-      - name: Photography
-        percent: 70
+      - name: Gym
+        percent: 85
         icon: camera
 
 # Languages
@@ -139,20 +139,54 @@ languages:
 
 # Awards and Certifications
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: Natural Language Processing with Classification and Vector Spaces
+    url: https://www.coursera.org/account/accomplishments/certificate/RQF7MCGT89TZ
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
     summary: |
-      Completed coursework in neural networks, covering architecture, implementation, and application development.
-  - title: Object-Oriented Programming in R
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+      Completed a comprehensive course covering neural networks, vector space models, and their applications in natural language processing tasks.
+      
+  - title: Probabilistic Deep Learning with TensorFlow 2
+    url: https://www.coursera.org/account/accomplishments/certificate/35AV6PTQH2HM
     date: '2023-01-21'
-    awarder: DataCamp
-    icon: datacamp
+    awarder: Coursera
+    icon: coursera
     summary: |
-      Intermediate course covering OOP with S3 and R6 in R, focusing on GUI development and industry-specific analyses.
+      Completed an intermediate course focusing on probabilistic models, TensorFlow 2, and the application of deep learning techniques in uncertainty quantification.
+      
+  - title: Supervised Machine Learning: Regression and Classification
+    url: https://www.coursera.org/account/accomplishments/certificate/4ZT9YYBMMYSH
+    date: '2023'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      Gained skills in building and applying machine learning models for regression and classification, with a focus on practical implementation and evaluation.
+      
+  - title: Getting Started with TensorFlow 2
+    url: https://www.coursera.org/account/accomplishments/certificate/C6QU5WJZKKJ5
+    date: '2023'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      Completed an introductory course on using TensorFlow 2 for machine learning and neural networks, focusing on hands-on model development.
+      
+  - title: Theory of Gaussian Process Regression for Machine Learning
+    url: ude.my/UC-23e80233-ca21-422f-8053-c88de212c1cd
+    date: '2023'
+    awarder: Unknown
+    icon: generic
+    summary: |
+      Studied Gaussian Process regression theory, with a focus on probabilistic modeling and applications in machine learning.
+      
+  - title: Hands-On Essentials - Data Warehouse
+    url: https://www.credly.com/badges/426ef272-5a0f-4ff8-8634-fe01cd78aeab?source=linked_in_profile
+    date: '2023'
+    awarder: Credly
+    icon: credly
+    summary: |
+      Completed a practical course on data warehousing, covering essential concepts in data storage and retrieval for large-scale systems.
+
 
 # Publications
 publications:
