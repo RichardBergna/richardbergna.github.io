@@ -5,7 +5,7 @@ title: Richard Bergna
 # Full name (for SEO)
 first_name: Richard
 last_name: Bergna
- 
+
 # Status emoji
 status:
   icon: 🎓
@@ -186,7 +186,6 @@ awards:
     icon: credly
     summary: |
       Completed a practical course on data warehousing, covering essential concepts in data storage and retrieval for large-scale systems.
-
 
 # Publications
 publications:
