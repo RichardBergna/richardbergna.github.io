@@ -128,6 +128,14 @@ skills:
         percent: 85
         icon: camera
 
+# Publications
+publications:
+  - title: "Graph Neural Stochastic Differential Equations"
+    url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QEjxEjcAAAAJ&citation_for_view=QEjxEjcAAAAJ:u5HHmVD_uO8C"
+    authors: "Richard Bergna, Sergio Calvo-Ordoñez, Felix Opolka, Pietro Liò, Jose Miguel Hernandez-Lobato"
+    conference: "ICML (In Preparation)"
+    year: 2024
+    
 # Languages
 languages:
   - name: "English"
@@ -182,12 +190,7 @@ awards:
     summary: |
       Completed a practical course on data warehousing, covering essential concepts in data storage and retrieval for large-scale systems.
 
-# Publications
-publications:
-  - title: "Graph Neural Stochastic Differential Equations"
-    authors: "Richard Bergna, Felix Opolka, Pietro Liò, Jose Miguel Hernandez-Lobato"
-    conference: "ICML (In Preparation)"
-    year: 2024
+
 ---
 
 ## About Me
