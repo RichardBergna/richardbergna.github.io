@@ -7,7 +7,11 @@ design:
   spacing: '5rem'
 
 sections:
+
   - block: resume-experience
+    button:
+        text: Download CV
+        url: uploads/resume.pdf
     # Show a call-to-action button under your biography? (optional)    
     content:
       username: admin
