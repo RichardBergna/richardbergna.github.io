@@ -5,7 +5,7 @@ title: Richard Bergna
 # Full name (for SEO)
 first_name: Richard
 last_name: Bergna
-
+ 
 # Status emoji
 status:
   icon: 🎓
