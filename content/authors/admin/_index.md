@@ -154,7 +154,7 @@ awards:
     icon: coursera
     summary: |
       Completed an intermediate course focusing on probabilistic models, TensorFlow 2, and the application of deep learning techniques in uncertainty quantification.
-      
+    
   - title: Supervised Machine Learning: Regression and Classification
     url: https://www.coursera.org/account/accomplishments/certificate/4ZT9YYBMMYSH
     date: '2023'
