@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: "PhD Candidate in Probabilistic Machine Learning"
+role: "PhD Candidate in Advance Machine Learning"
 
 # Organizations/Affiliations to display in Biography block
 organizations:
@@ -47,7 +47,7 @@ interests:
 
 # Education
 education:
-  - area: "PhD in Probabilistic Machine Learning"
+  - area: "PhD in Advance Machine Learning"
     institution: "University of Cambridge" 
     date_start: "2024-10-01"
     date_end: "2027-12-31"
