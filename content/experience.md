@@ -14,7 +14,7 @@ sections:
       username: admin
       # Adding specific experiences
       experience:
-        - position: PhD Researcher, Probabilistic Machine Learning
+        - position: PhD Researcher, Advance Machine Learning
           company_name: University of Cambridge
           date_start: "October 2024"
           location: Cambridge, UK
