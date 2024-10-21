@@ -27,7 +27,7 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:bergna.richard@gmail.com'
+    url: 'mailto:rsb63@cam.ac.uk'
     label: "Email Me"
   - icon: brands/github
     url: "https://github.com/RichardBergna"
@@ -35,6 +35,10 @@ profiles:
   - icon: brands/linkedin
     url: "https://www.linkedin.com/in/richard-bergna"
     label: "LinkedIn"
+  - icon: academicons/google-scholar
+    url: "https://scholar.google.com/citations?user=QEjxEjcAAAAJ&hl=en"
+    label: "My Work"
+
 
 # Research Interests
 interests:
