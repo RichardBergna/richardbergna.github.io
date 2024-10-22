@@ -48,8 +48,7 @@ interests:
   - "Bayesian Methods"
   - "Gaussian Processes"
   - "Reinforcement Learning"
-  - "Graph Neural Networks"
-</span>
+  - "Graph Neural Networks"</span>
 # Education
 <span style="color: black;">
 education:
