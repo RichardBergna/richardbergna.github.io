@@ -41,6 +41,7 @@ profiles:
 
 
 # Research Interests
+<span style="color: black;">
 interests:
   - "Uncertainty Quantification in ML"
   - "Probabilistic Deep Learning"
@@ -48,8 +49,9 @@ interests:
   - "Gaussian Processes"
   - "Reinforcement Learning"
   - "Graph Neural Networks"
-
+</span>
 # Education
+<span style="color: black;">
 education:
   - area: "PhD in Advance Machine Learning"
     institution: "University of Cambridge" 
@@ -69,7 +71,7 @@ education:
     date_end: "2021-08-01"
     summary: |
       First-class honours with a dissertation grade of 81%, the highest in the cohort, focused on using machine learning to predict movement patterns.
-
+</span>
 # Work Experience
 work:
   - position: "Quantitative Researcher"
@@ -196,7 +198,3 @@ awards:
 
 
 ---
-
-## About Me
-
-Richard Bergna is a first-year PhD student at the Cambridge Machine Learning Group (CBL), under the supervision of Prof. Jose Miguel Hernandez-Lobato and Prof. Pietro Liò. His research focuses on uncertainty quantification in machine learning, with applications in decision-making under uncertainty, Gaussian processes, graph neural networks, and reinforcement learning.
