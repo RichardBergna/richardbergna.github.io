@@ -38,10 +38,9 @@ profiles:
   - icon: academicons/google-scholar
     url: "https://scholar.google.com/citations?user=QEjxEjcAAAAJ&hl=en"
     label: "My Work"
-
-
 # Research Interests
-<span style="color: black;">interests:
+<span style="color: black;">
+interests:
   - "Uncertainty Quantification in ML"
   - "Probabilistic Deep Learning"
   - "Bayesian Methods"
