@@ -36,11 +36,10 @@ profiles:
     url: "https://www.linkedin.com/in/richard-bergna"
     label: "LinkedIn"
   - icon: academicons/google-scholar
-    url: "https://scholar.google.com/citations?user=QEjxEjcAAAAJ&hl=en"
+    url: "https://scholar.google.com/citations?user=QEjxEjcAAAAJ&hl=enz
     label: "My Work"
 # Research Interests
-
-interests:
+<span style="color: black;">interests:
   - "Uncertainty Quantification in ML"
   - "Probabilistic Deep Learning"
   - "Bayesian Methods"
@@ -48,8 +47,7 @@ interests:
   - "Reinforcement Learning"
   - "Graph Neural Networks"</span>
 # Education
-
-education:
+<span style="color: black;">education:
   - area: "PhD in Advance Machine Learning"
     institution: "University of Cambridge" 
     date_start: "2024-10-01"
