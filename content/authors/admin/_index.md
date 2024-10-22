@@ -39,7 +39,7 @@ profiles:
     url: "https://scholar.google.com/citations?user=QEjxEjcAAAAJ&hl=en"
     label: "My Work"
 # Research Interests
-<span style="color: black;">
+
 interests:
   - "Uncertainty Quantification in ML"
   - "Probabilistic Deep Learning"
@@ -48,7 +48,7 @@ interests:
   - "Reinforcement Learning"
   - "Graph Neural Networks"</span>
 # Education
-<span style="color: black;">
+
 education:
   - area: "PhD in Advance Machine Learning"
     institution: "University of Cambridge" 
