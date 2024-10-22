@@ -36,7 +36,7 @@ profiles:
     url: "https://www.linkedin.com/in/richard-bergna"
     label: "LinkedIn"
   - icon: academicons/google-scholar
-    url: "https://scholar.google.com/citations?user=QEjxEjcAAAAJ&hl=enz
+    url: "https://scholar.google.com/citations?user=QEjxEjcAAAAJ&hl=enz"
     label: "My Work"
 # Research Interests
 <span style="color: black;">interests:
