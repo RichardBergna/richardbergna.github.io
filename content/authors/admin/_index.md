@@ -41,8 +41,7 @@ profiles:
 
 
 # Research Interests
-<span style="color: black;">
-interests:
+<span style="color: black;">interests:
   - "Uncertainty Quantification in ML"
   - "Probabilistic Deep Learning"
   - "Bayesian Methods"
