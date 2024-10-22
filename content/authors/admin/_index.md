@@ -39,15 +39,15 @@ profiles:
     url: "https://scholar.google.com/citations?user=QEjxEjcAAAAJ&hl=enz"
     label: "My Work"
 # Research Interests
-<span style="color: black;">interests:
+interests:
   - "Uncertainty Quantification in ML"
   - "Probabilistic Deep Learning"
   - "Bayesian Methods"
   - "Gaussian Processes"
   - "Reinforcement Learning"
-  - "Graph Neural Networks"</span>
+  - "Graph Neural Networks"
 # Education
-<span style="color: black;">education:
+education:
   - area: "PhD in Advance Machine Learning"
     institution: "University of Cambridge" 
     date_start: "2024-10-01"
@@ -66,7 +66,7 @@ profiles:
     date_end: "2021-08-01"
     summary: |
       First-class honours with a dissertation grade of 81%, the highest in the cohort, focused on using machine learning to predict movement patterns.
-</span>
+    
 # Work Experience
 work:
   - position: "Quantitative Researcher"
