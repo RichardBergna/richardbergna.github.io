@@ -38,7 +38,7 @@ image:
   caption: 'Visualization of Stochastic Differential Equations in Graph Neural Networks'
   focal_point: ""
   preview_only: false
-  filename: media/uncertainty_modeling.gif
+  filename: uncertainty_modeling.gif
 
 projects:
   - graph-uncertainty
