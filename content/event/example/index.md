@@ -43,7 +43,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: 'https://github.com'
 url_pdf: ''
-url_slides: 'https://github.com/RichardBergna/richardbergna.github.io/blob/2dc8ea886100dc097e6450a76da9b3e13db208db/content/event/example/index.md?plain=1#L71'
+url_slides: 'https://www.slideshare.net/slideshow/uncertainty-modeling-in-graph-neural-networks-via-stochastic-precentation-pptx/273579479'
 url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
