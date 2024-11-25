@@ -43,7 +43,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: 'https://github.com'
 url_pdf: ''
-url_slides: 'https://slideshare.net'
+url_slides: 'https://github.com/RichardBergna/richardbergna.github.io/blob/2dc8ea886100dc097e6450a76da9b3e13db208db/content/event/example/index.md?plain=1#L71'
 url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
